@@ -151,3 +151,5 @@ def main():
 while True:
     desenhar()
     main()
+
+#testmain
